@@ -1,0 +1,17 @@
+.last_played {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  height: 13rem;
+  
+}
+.last_played h3 {
+  font-family: 'Gilroy';
+  font-weight: 800;
+}
+.last_played_children {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+

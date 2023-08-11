@@ -1,0 +1,56 @@
+.right {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  height: 100vh;
+  padding-left: 60px;
+}
+.div__icon {
+  display: flex;
+  padding-top: 60px;
+}
+.div__icon h1 {
+  font-family: 'Righteous', sans-serif;
+  color: #1565d8;
+  font-weight: 400;
+}
+.div__text {
+  display: flex;
+  flex-direction: column;
+  padding-top: 3rem;
+}
+.div__text .qout {
+  height: 20px;
+  color: #bababa;
+  font-family: 'Gayathri', sans-serif;
+  font-size: 95px;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+.div__text p {
+  width: 473px;
+  color: #696f79;
+  font-family: 'Inter', sans-serif;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 38px;
+}
+
+.div__text h4 {
+  color: #696f79;
+  font-family: 'Inter', sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 38px;
+  padding-top: 3rem;
+}
+.div__image {
+  position: absolute;
+  transform: translate(15rem, 22rem);
+  -webkit-transform: translate(15rem, 22rem);
+  -moz-transform: translate(15rem, 22rem);
+  -ms-transform: translate(15rem, 22rem);
+  -o-transform: translate(15rem, 22rem);
+}

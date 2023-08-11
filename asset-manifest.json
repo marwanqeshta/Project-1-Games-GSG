@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Project-1-Games-GSG/static/css/main.a6c930f3.css",
+    "main.js": "/Project-1-Games-GSG/static/js/main.1cb20339.js",
+    "static/media/Rectangle 31.png": "/Project-1-Games-GSG/static/media/Rectangle 31.448b03ee95d135fb5b50.png",
+    "static/media/trophy-1.png": "/Project-1-Games-GSG/static/media/trophy-1.b3e3487324282af3a67c.png",
+    "static/media/Gilroy-UltraLightItalic.ttf": "/Project-1-Games-GSG/static/media/Gilroy-UltraLightItalic.87f0acd42b27a5408e0b.ttf",
+    "static/media/Gilroy-ThinItalic.ttf": "/Project-1-Games-GSG/static/media/Gilroy-ThinItalic.930dc405dc78cc97a766.ttf",
+    "static/media/Gilroy-LightItalic.ttf": "/Project-1-Games-GSG/static/media/Gilroy-LightItalic.6d1bb712a33e4d603f27.ttf",
+    "static/media/Gilroy-RegularItalic.ttf": "/Project-1-Games-GSG/static/media/Gilroy-RegularItalic.aada5f763052a8db57fe.ttf",
+    "static/media/Gilroy-MediumItalic.ttf": "/Project-1-Games-GSG/static/media/Gilroy-MediumItalic.32e71bba19919e8e0618.ttf",
+    "static/media/Gilroy-SemiBoldItalic.ttf": "/Project-1-Games-GSG/static/media/Gilroy-SemiBoldItalic.1024cf519c52eb8c377f.ttf",
+    "static/media/Gilroy-BoldItalic.ttf": "/Project-1-Games-GSG/static/media/Gilroy-BoldItalic.ef735bce11cfbb759540.ttf",
+    "static/media/Gilroy-Thin.ttf": "/Project-1-Games-GSG/static/media/Gilroy-Thin.28f856b7c4b3d473e0d1.ttf",
+    "static/media/Gilroy-UltraLight.ttf": "/Project-1-Games-GSG/static/media/Gilroy-UltraLight.768c44ec57dc827381b3.ttf",
+    "static/media/Gilroy-Light.ttf": "/Project-1-Games-GSG/static/media/Gilroy-Light.1822a291dd62fe2cca72.ttf",
+    "static/media/Gilroy-ExtraBoldItalic.ttf": "/Project-1-Games-GSG/static/media/Gilroy-ExtraBoldItalic.33f2985b2a89eeb1008b.ttf",
+    "static/media/Gilroy-Regular.ttf": "/Project-1-Games-GSG/static/media/Gilroy-Regular.5b89a8df3b17dccdb73f.ttf",
+    "static/media/Gilroy-Medium.ttf": "/Project-1-Games-GSG/static/media/Gilroy-Medium.1b4da6582f83f45ea039.ttf",
+    "static/media/Gilroy-SemiBold.ttf": "/Project-1-Games-GSG/static/media/Gilroy-SemiBold.07b9100a72fe7d46d20a.ttf",
+    "static/media/Gilroy-BlackItalic.ttf": "/Project-1-Games-GSG/static/media/Gilroy-BlackItalic.166365ebe89db575a0c1.ttf",
+    "static/media/Gilroy-Bold.ttf": "/Project-1-Games-GSG/static/media/Gilroy-Bold.ca49f7658c4eaac78b6d.ttf",
+    "static/media/Gilroy-HeavyItalic.ttf": "/Project-1-Games-GSG/static/media/Gilroy-HeavyItalic.e03ca91e292d53be084a.ttf",
+    "static/media/Gilroy-ExtraBold.ttf": "/Project-1-Games-GSG/static/media/Gilroy-ExtraBold.59a66eb8c577778daaa5.ttf",
+    "static/media/Gilroy-Black.ttf": "/Project-1-Games-GSG/static/media/Gilroy-Black.3566c87fe5eaaa7052d5.ttf",
+    "static/media/Gilroy-Heavy.ttf": "/Project-1-Games-GSG/static/media/Gilroy-Heavy.41ca3e2d8c1dc7d3cde9.ttf",
+    "static/media/raanana.ttf": "/Project-1-Games-GSG/static/media/raanana.40f6d59c43a994648b4a.ttf",
+    "index.html": "/Project-1-Games-GSG/index.html",
+    "main.a6c930f3.css.map": "/Project-1-Games-GSG/static/css/main.a6c930f3.css.map",
+    "main.1cb20339.js.map": "/Project-1-Games-GSG/static/js/main.1cb20339.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6c930f3.css",
+    "static/js/main.1cb20339.js"
+  ]
+}
